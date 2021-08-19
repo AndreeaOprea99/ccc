@@ -1,0 +1,16 @@
+{
+  "name": "email-schedule",
+  "version": "1.0.0",
+  "description": "descriere",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "nodejs-nodemailer-outlook": "^1.2.4",
+    "nodemailer": "^6.6.3"
+  }
+}
